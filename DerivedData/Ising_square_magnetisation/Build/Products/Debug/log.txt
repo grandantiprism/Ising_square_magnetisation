@@ -5,3 +5,10 @@ Num_beta: 20 (0.4 to 0.5)
 Elapsed time: 8.60 seconds
 -----------------------
 
+--- Simulation Log ---
+Date: Sun Jan 11 01:52:27 2026
+L: 24, MCS: 10, THERM: 1000
+Num_beta: 20 (0.4 to 0.5)
+Elapsed time: 1.18 seconds
+-----------------------
+
