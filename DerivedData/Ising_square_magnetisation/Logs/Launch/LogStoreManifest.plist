@@ -67,6 +67,67 @@
 			<key>uniqueIdentifier</key>
 			<string>4EE3A067-DDD0-4771-817E-A767C9EEC36D</string>
 		</dict>
+		<key>F3078B68-D484-49F0-907A-A49C763216FB</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>39C1C885-0480-46EF-9625-70EF26D1DC13</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>1</integer>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-Ising_square_magnetisation-2026.01.11_03-30-18-+0900.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>1</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Ising_square_magnetisation project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Ising_square_magnetisation</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Ising_square_magnetisation</string>
+			<key>timeStartedRecording</key>
+			<real>789762618.44121003</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run Ising_square_magnetisation</string>
+			<key>uniqueIdentifier</key>
+			<string>F3078B68-D484-49F0-907A-A49C763216FB</string>
+		</dict>
 	</dict>
 </dict>
 </plist>
