@@ -1,0 +1,23 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "3102924C7E9AE173593EAC58E101530F20A64C14",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "3102924C7E9AE173593EAC58E101530F20A64C14" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "04BCD785-131E-40EA-8DBC-9B615657631B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "3102924C7E9AE173593EAC58E101530F20A64C14" : "Ising_square_magnetisation\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Ising_square_magnetisation",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Ising_square_magnetisation.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/grandantiprism\/Ising_square_magnetisation.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3102924C7E9AE173593EAC58E101530F20A64C14"
+    }
+  ]
+}
