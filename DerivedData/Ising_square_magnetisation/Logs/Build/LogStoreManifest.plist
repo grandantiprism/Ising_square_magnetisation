@@ -5,6 +5,49 @@
 	<key>logFormatVersion</key>
 	<integer>11</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>8254055C-4F15-4222-BDEF-58C56BFDD08E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8254055C-4F15-4222-BDEF-58C56BFDD08E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>1</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Ising_square_magnetisation project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Ising_square_magnetisation</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Ising_square_magnetisation</string>
+			<key>timeStartedRecording</key>
+			<real>789756031.45168602</real>
+			<key>timeStoppedRecording</key>
+			<real>789756034.32379794</real>
+			<key>title</key>
+			<string>Build Ising_square_magnetisation</string>
+			<key>uniqueIdentifier</key>
+			<string>8254055C-4F15-4222-BDEF-58C56BFDD08E</string>
+		</dict>
+	</dict>
 </dict>
 </plist>
