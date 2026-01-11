@@ -6,7 +6,7 @@
 	<integer>11</integer>
 	<key>logs</key>
 	<dict>
-		<key>39C1C885-0480-46EF-9625-70EF26D1DC13</key>
+		<key>ADE3C7CF-B76C-432D-8F2D-9049C0AC54B8</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>39C1C885-0480-46EF-9625-70EF26D1DC13.xcactivitylog</string>
+			<string>ADE3C7CF-B76C-432D-8F2D-9049C0AC54B8.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -40,55 +40,13 @@
 			<key>signature</key>
 			<string>Build Ising_square_magnetisation</string>
 			<key>timeStartedRecording</key>
-			<real>789762618.444327</real>
+			<real>789763615.65663505</real>
 			<key>timeStoppedRecording</key>
-			<real>789762620.087538</real>
+			<real>789763616.74243402</real>
 			<key>title</key>
 			<string>Build Ising_square_magnetisation</string>
 			<key>uniqueIdentifier</key>
-			<string>39C1C885-0480-46EF-9625-70EF26D1DC13</string>
-		</dict>
-		<key>FE267E4A-EE12-4E47-847D-1E2F2463775D</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>FE267E4A-EE12-4E47-847D-1E2F2463775D.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>1</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Ising_square_magnetisation project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Ising_square_magnetisation</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Ising_square_magnetisation</string>
-			<key>timeStartedRecording</key>
-			<real>789758186.20396101</real>
-			<key>timeStoppedRecording</key>
-			<real>789758187.22653604</real>
-			<key>title</key>
-			<string>Build Ising_square_magnetisation</string>
-			<key>uniqueIdentifier</key>
-			<string>FE267E4A-EE12-4E47-847D-1E2F2463775D</string>
+			<string>ADE3C7CF-B76C-432D-8F2D-9049C0AC54B8</string>
 		</dict>
 	</dict>
 </dict>

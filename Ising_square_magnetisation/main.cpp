@@ -15,7 +15,7 @@ namespace fs = std::filesystem;
 // シミュレーションパラメータの設定
 const int L = 64;            // 格子サイズ (L x L)
 const int N = L * L;        // 全スピン数
-const int MCS = 10;      // 各温度でのモンテカルロステップ数
+const int MCS = 1000000;      // 各温度でのモンテカルロステップ数
 const int THERM = (L < 64) ? 1000 : L * 20;     // 熱平衡化のための捨てステップ数
 
 const double beta_min = 0.4;
@@ -96,7 +96,7 @@ int main() {
 
         // ファイル出力の準備
         stringstream ss;
-        ss << dir_name << "/" << L << "x" << L << "_" << fixed << setprecision(3) << beta << ".txt";
+        ss << dir_name << "/" << L << "x" << L << "_" << fixed << setprecision(5) << beta << ".txt";
         ofstream ofs(ss.str(), ios::app);
         
         ofs << fixed << setprecision(20);
