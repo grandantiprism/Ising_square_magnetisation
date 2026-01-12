@@ -110,3 +110,52 @@ Num_beta: 20 (0.4 to 0.5)
 Elapsed time: 7423.17 seconds
 -----------------------
 
+--- Simulation Log ---
+Date: Mon Jan 12 07:38:49 2026
+L: 128, MCS: 1000000, THERM: 2560
+Num_beta: 20 (0.4 to 0.5)
+Elapsed time: 31715.90 seconds
+-----------------------
+
+--- Simulation Log ---
+Date: Mon Jan 12 18:54:53 2026
+L: 128, MCS: 1000000, THERM: 2560
+Num_beta: 20 (0.42 to 0.46)
+Elapsed time: 24544.66 seconds
+-----------------------
+
+--- Simulation Log ---
+Date: Mon Jan 12 20:53:53 2026
+L: 64, MCS: 1000000, THERM: 1280
+Num_beta: 20 (0.42 to 0.46)
+Elapsed time: 6956.23 seconds
+-----------------------
+
+--- Simulation Log ---
+Date: Mon Jan 12 21:30:06 2026
+L: 32, MCS: 1000000, THERM: 1000
+Num_beta: 20 (0.42 to 0.46)
+Elapsed time: 2076.01 seconds
+-----------------------
+
+--- Simulation Log ---
+Date: Mon Jan 12 21:43:34 2026
+L: 16, MCS: 1000000, THERM: 1000
+Num_beta: 20 (0.42 to 0.46)
+Elapsed time: 663.40 seconds
+-----------------------
+
+--- Simulation Log ---
+Date: Mon Jan 12 21:47:46 2026
+L: 8, MCS: 1000000, THERM: 1000
+Num_beta: 20 (0.42 to 0.46)
+Elapsed time: 236.09 seconds
+-----------------------
+
+--- Simulation Log ---
+Date: Mon Jan 12 21:49:25 2026
+L: 4, MCS: 1000000, THERM: 1000
+Num_beta: 20 (0.42 to 0.46)
+Elapsed time: 88.32 seconds
+-----------------------
+
