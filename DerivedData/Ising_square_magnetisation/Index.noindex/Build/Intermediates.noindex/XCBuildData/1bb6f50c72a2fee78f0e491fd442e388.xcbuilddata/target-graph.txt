@@ -1,2 +1,0 @@
-Target dependency graph (1 target)
-Target 'Ising_square_magnetisation' in project 'Ising_square_magnetisation' (no dependencies)
