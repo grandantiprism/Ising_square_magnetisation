@@ -6,6 +6,67 @@
 	<integer>11</integer>
 	<key>logs</key>
 	<dict>
+		<key>00143556-6217-4E4C-81BF-06C7C133C21E</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>E15BF294-4C76-438A-A835-F953C02A049B</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>1</integer>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-Ising_square_magnetisation-2026.01.18_15-47-06-+0900.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>1</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Ising_square_magnetisation project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Ising_square_magnetisation</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Ising_square_magnetisation</string>
+			<key>timeStartedRecording</key>
+			<real>790411626.28515804</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run Ising_square_magnetisation</string>
+			<key>uniqueIdentifier</key>
+			<string>00143556-6217-4E4C-81BF-06C7C133C21E</string>
+		</dict>
 		<key>08015520-E416-469B-98FC-646E7D4469D5</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
@@ -66,6 +127,128 @@
 			<string>Run Ising_square_magnetisation</string>
 			<key>uniqueIdentifier</key>
 			<string>08015520-E416-469B-98FC-646E7D4469D5</string>
+		</dict>
+		<key>795A878B-781B-4CD5-9584-31005DD09505</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>28138405-F7D6-4AFE-A231-55472553AF85</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>1</integer>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-Ising_square_magnetisation-2026.01.18_22-13-56-+0900.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>1</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Ising_square_magnetisation project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Ising_square_magnetisation</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Ising_square_magnetisation</string>
+			<key>timeStartedRecording</key>
+			<real>790434836.42225695</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run Ising_square_magnetisation</string>
+			<key>uniqueIdentifier</key>
+			<string>795A878B-781B-4CD5-9584-31005DD09505</string>
+		</dict>
+		<key>F55C613B-0CD4-486B-9BB3-9D6D448A4681</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>253CAADE-6B73-490B-9F8F-2687F56FB896</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>1</integer>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-Ising_square_magnetisation-2026.01.19_00-06-00-+0900.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>1</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Ising_square_magnetisation project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Ising_square_magnetisation</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Ising_square_magnetisation</string>
+			<key>timeStartedRecording</key>
+			<real>790441560.74093401</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run Ising_square_magnetisation</string>
+			<key>uniqueIdentifier</key>
+			<string>F55C613B-0CD4-486B-9BB3-9D6D448A4681</string>
 		</dict>
 	</dict>
 </dict>

@@ -6,6 +6,90 @@
 	<integer>11</integer>
 	<key>logs</key>
 	<dict>
+		<key>253CAADE-6B73-490B-9F8F-2687F56FB896</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>253CAADE-6B73-490B-9F8F-2687F56FB896.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>1</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Ising_square_magnetisation project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Ising_square_magnetisation</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Ising_square_magnetisation</string>
+			<key>timeStartedRecording</key>
+			<real>790441560.74105895</real>
+			<key>timeStoppedRecording</key>
+			<real>790441562.16478503</real>
+			<key>title</key>
+			<string>Build Ising_square_magnetisation</string>
+			<key>uniqueIdentifier</key>
+			<string>253CAADE-6B73-490B-9F8F-2687F56FB896</string>
+		</dict>
+		<key>28138405-F7D6-4AFE-A231-55472553AF85</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>28138405-F7D6-4AFE-A231-55472553AF85.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>1</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Ising_square_magnetisation project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Ising_square_magnetisation</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Ising_square_magnetisation</string>
+			<key>timeStartedRecording</key>
+			<real>790434836.42408395</real>
+			<key>timeStoppedRecording</key>
+			<real>790434847.15177095</real>
+			<key>title</key>
+			<string>Build Ising_square_magnetisation</string>
+			<key>uniqueIdentifier</key>
+			<string>28138405-F7D6-4AFE-A231-55472553AF85</string>
+		</dict>
 		<key>63EC1DEF-F4CE-469E-9A4F-0939BA4D10F6</key>
 		<dict>
 			<key>className</key>
@@ -47,6 +131,48 @@
 			<string>Build Ising_square_magnetisation</string>
 			<key>uniqueIdentifier</key>
 			<string>63EC1DEF-F4CE-469E-9A4F-0939BA4D10F6</string>
+		</dict>
+		<key>E15BF294-4C76-438A-A835-F953C02A049B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E15BF294-4C76-438A-A835-F953C02A049B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>1</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Ising_square_magnetisation project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Ising_square_magnetisation</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Ising_square_magnetisation</string>
+			<key>timeStartedRecording</key>
+			<real>790411626.28809595</real>
+			<key>timeStoppedRecording</key>
+			<real>790411630.33641601</real>
+			<key>title</key>
+			<string>Build Ising_square_magnetisation</string>
+			<key>uniqueIdentifier</key>
+			<string>E15BF294-4C76-438A-A835-F953C02A049B</string>
 		</dict>
 	</dict>
 </dict>
